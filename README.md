@@ -41,5 +41,5 @@ When the sensor detects a strong vibration or sudden movement, the Arduino trigg
 ---
 
 ## 👩‍💻 Author
-**Jigisha Diksha**  
+**Mukesh Kr Bauri** (Collab with Jigisha Diksha, Nayan Mandal, Rishika Kumari, Isha Mishra)
 Ramgarh Engineering College | IoT & Embedded Developer
